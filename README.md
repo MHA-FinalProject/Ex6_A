@@ -10,7 +10,7 @@
 
 כאשר השחקן נכנס לתחום של הסייר אז הסייר ימתין בפונקציה הזאת:
 
-![image](https://github.com/MHA-FinalProject/Ex6_A_Weekly/assets/118104946/482a4135-6362-48ad-b331-c71cf973692a)
+![image](https://github.com/MHA-FinalProject/Ex6_A_Weekly/assets/118104946/6acbc004-f2d4-4910-9728-68252e4dcc95)
 
 לפי הפונקציית wait הזאת:
 
