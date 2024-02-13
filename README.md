@@ -14,7 +14,7 @@
 
 לפי הפונקציית wait הזאת:
 
-![image](https://github.com/MHA-FinalProject/Ex6_A_Weekly/assets/118104946/cfb6725d-36cc-45b0-ba74-11630b5de00c)
+![image](https://github.com/MHA-FinalProject/Ex6_A_Weekly/assets/118104946/1a049488-3bee-4c1f-909c-e549cafa143a)
 
 ואפשר לשנות את הזמן של ההמתנה:
 
