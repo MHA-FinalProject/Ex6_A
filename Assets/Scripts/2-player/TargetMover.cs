@@ -11,6 +11,8 @@ public class TargetMover: MonoBehaviour {
     [SerializeField] AllowedTiles allowedTiles = null;
     protected bool iswaiting = false;
 
+    [SerializeField] float waitingTime = 3f;
+
     [Tooltip("The speed by which the object moves towards the target, in meters (=grid units) per second")]
     [SerializeField] float speed = 2f;
 
@@ -40,7 +42,7 @@ public class TargetMover: MonoBehaviour {
     IEnumerator Wait()
     {
         iswaiting = true;
-        yield return new WaitForSeconds(3f); // Wait for 1 second
+        yield return new WaitForSeconds(waitingTime);
         iswaiting = false;
 
     }
