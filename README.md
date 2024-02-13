@@ -14,7 +14,8 @@
 
 לפי הפונקציית wait הזאת: 
 
-![image](https://github.com/MHA-FinalProject/Ex6_A_Weekly/assets/118104946/0f77c2ec-3958-47ba-885d-555349fabc6f)
+![image](https://github.com/MHA-FinalProject/Ex6_A_Weekly/assets/118104946/cfb6725d-36cc-45b0-ba74-11630b5de00c)
+
 
 
 
