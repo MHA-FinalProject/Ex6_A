@@ -25,7 +25,8 @@
 
 עשינו סקריפט חדש לשחקן בשם PlayerDisapper שבו עשינו שכאשר הטאג של הסייר הוא הטאג שבו מתנגשים אז שניהם נעלמים:
 
-![Screenshot 2024-02-13 235136](https://github.com/MHA-FinalProject/Ex6_A_Weekly/assets/118104946/ffedb80b-02f8-4ca6-99d8-97b3a3928ffe)
+![image](https://github.com/MHA-FinalProject/Ex6_A_Weekly/assets/118104946/4e00a0b0-b32f-438c-a69a-1401faaabfa0)
+
 
 שהגדרנו פה איזה טאג:
 
